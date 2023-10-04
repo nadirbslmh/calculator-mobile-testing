@@ -1,0 +1,6 @@
+appiumProperties:
+  platformName: Android
+  deviceName: device
+  app: /home/nadir/Downloads/calculator-alta-qe.apk
+  automationName: UIAutomator2
+  autoGrantPermissions: true
