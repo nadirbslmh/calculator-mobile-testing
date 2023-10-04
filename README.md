@@ -6,6 +6,7 @@ Mobile testing example using Appium and Serenity BDD.
 - The application that is used for testing is a [simple calculator application](https://drive.google.com/file/d/1gYumnP6d8hD2rkGDNL7e0Az7vm_ywH-R/view?usp=sharing).
 - This example is tested in Android platform.
 - This repository uses [Appium 2](https://appium.io/docs/en/2.0/quickstart/).
+- If the test failed to run, please update the serenity version in `serenity.version` in `pom.xml` file.
 
 ## How to Use
 
